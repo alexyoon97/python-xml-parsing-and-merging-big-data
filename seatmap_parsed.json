@@ -1,0 +1,1022 @@
+{
+  "Departure": { "AirportCode": "FNC", "Date": "2021-08-26", "Time": "17:45" },
+  "Arrival": { "AirportCode": "DUS" },
+  "Flight": { "AirlineID": "DE", "FlightNumber": "1415" },
+  "1": {
+    "RowNumber": "1",
+    "Cabin Type": "First",
+    "1A Details": {
+      "Seat Number": "1A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "1B Details": {
+      "Seat Number": "1B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "1E Details": {
+      "Seat Number": "1E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "1F Details": {
+      "Seat Number": "1F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "2": {
+    "RowNumber": "2",
+    "Cabin Type": "First",
+    "2A Details": {
+      "Seat Number": "2A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "2B Details": {
+      "Seat Number": "2B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "2E Details": {
+      "Seat Number": "2E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "2F Details": {
+      "Seat Number": "2F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "7": {
+    "RowNumber": "7",
+    "Cabin Type": "Economy",
+    "7A Details": {
+      "Seat Number": "7A",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "7B Details": {
+      "Seat Number": "7B",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "7C Details": {
+      "Seat Number": "7C",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "7D Details": {
+      "Seat Number": "7D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "7E Details": {
+      "Seat Number": "7E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "7F Details": {
+      "Seat Number": "7F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "8": {
+    "RowNumber": "8",
+    "Cabin Type": "Economy",
+    "8A Details": {
+      "Seat Number": "8A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "8B Details": {
+      "Seat Number": "8B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "8C Details": {
+      "Seat Number": "8C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "8D Details": {
+      "Seat Number": "8D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "8E Details": {
+      "Seat Number": "8E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "8F Details": {
+      "Seat Number": "8F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "9": {
+    "RowNumber": "9",
+    "Cabin Type": "Economy",
+    "9A Details": {
+      "Seat Number": "9A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "9B Details": {
+      "Seat Number": "9B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "9C Details": {
+      "Seat Number": "9C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "9D Details": {
+      "Seat Number": "9D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "9E Details": {
+      "Seat Number": "9E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "9F Details": {
+      "Seat Number": "9F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "10": {
+    "RowNumber": "10",
+    "Cabin Type": "Economy",
+    "10A Details": {
+      "Seat Number": "10A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "10B Details": {
+      "Seat Number": "10B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "10C Details": {
+      "Seat Number": "10C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "10D Details": {
+      "Seat Number": "10D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "10E Details": {
+      "Seat Number": "10E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "10F Details": {
+      "Seat Number": "10F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "11": {
+    "RowNumber": "11",
+    "Cabin Type": "Economy",
+    "11A Details": {
+      "Seat Number": "11A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "11B Details": {
+      "Seat Number": "11B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "11C Details": {
+      "Seat Number": "11C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "11D Details": {
+      "Seat Number": "11D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "11E Details": {
+      "Seat Number": "11E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "11F Details": {
+      "Seat Number": "11F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "12": {
+    "RowNumber": "12",
+    "Cabin Type": "Economy",
+    "12A Details": {
+      "Seat Number": "12A",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "12B Details": {
+      "Seat Number": "12B",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "12C Details": {
+      "Seat Number": "12C",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "12D Details": {
+      "Seat Number": "12D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "12E Details": {
+      "Seat Number": "12E",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "12F Details": {
+      "Seat Number": "12F",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    }
+  },
+  "14": {
+    "RowNumber": "14",
+    "Cabin Type": "Economy",
+    "14A Details": {
+      "Seat Number": "14A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "14B Details": {
+      "Seat Number": "14B",
+      "Availabilty": "true",
+      "Cost": "2600 USD"
+    },
+    "14C Details": {
+      "Seat Number": "14C",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "14D Details": {
+      "Seat Number": "14D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "14E Details": {
+      "Seat Number": "14E",
+      "Availabilty": "true",
+      "Cost": "2600 USD"
+    },
+    "14F Details": {
+      "Seat Number": "14F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "15": {
+    "RowNumber": "15",
+    "Cabin Type": "Economy",
+    "15A Details": {
+      "Seat Number": "15A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "15B Details": {
+      "Seat Number": "15B",
+      "Availabilty": "true",
+      "Cost": "2600 USD"
+    },
+    "15C Details": {
+      "Seat Number": "15C",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "15D Details": {
+      "Seat Number": "15D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "15E Details": {
+      "Seat Number": "15E",
+      "Availabilty": "true",
+      "Cost": "2600 USD"
+    },
+    "15F Details": {
+      "Seat Number": "15F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "20": {
+    "RowNumber": "20",
+    "Cabin Type": "Economy",
+    "20A Details": {
+      "Seat Number": "20A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "20B Details": {
+      "Seat Number": "20B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "20C Details": {
+      "Seat Number": "20C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "20D Details": {
+      "Seat Number": "20D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "20E Details": {
+      "Seat Number": "20E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "20F Details": {
+      "Seat Number": "20F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "21": {
+    "RowNumber": "21",
+    "Cabin Type": "Economy",
+    "21A Details": {
+      "Seat Number": "21A",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    },
+    "21B Details": {
+      "Seat Number": "21B",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "21C Details": {
+      "Seat Number": "21C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "21D Details": {
+      "Seat Number": "21D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "21E Details": {
+      "Seat Number": "21E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "21F Details": {
+      "Seat Number": "21F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  },
+  "22": {
+    "RowNumber": "22",
+    "Cabin Type": "Economy",
+    "22A Details": {
+      "Seat Number": "22A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "22B Details": {
+      "Seat Number": "22B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "22C Details": {
+      "Seat Number": "22C",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "22D Details": {
+      "Seat Number": "22D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "22E Details": {
+      "Seat Number": "22E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "22F Details": {
+      "Seat Number": "22F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "23": {
+    "RowNumber": "23",
+    "Cabin Type": "Economy",
+    "23A Details": {
+      "Seat Number": "23A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "23B Details": {
+      "Seat Number": "23B",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "23C Details": {
+      "Seat Number": "23C",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "23D Details": {
+      "Seat Number": "23D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "23E Details": {
+      "Seat Number": "23E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "23F Details": {
+      "Seat Number": "23F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "24": {
+    "RowNumber": "24",
+    "Cabin Type": "Economy",
+    "24A Details": {
+      "Seat Number": "24A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "24B Details": {
+      "Seat Number": "24B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "24C Details": {
+      "Seat Number": "24C",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "24D Details": {
+      "Seat Number": "24D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "24E Details": {
+      "Seat Number": "24E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "24F Details": {
+      "Seat Number": "24F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "25": {
+    "RowNumber": "25",
+    "Cabin Type": "Economy",
+    "25A Details": {
+      "Seat Number": "25A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "25B Details": {
+      "Seat Number": "25B",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "25C Details": {
+      "Seat Number": "25C",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "25D Details": {
+      "Seat Number": "25D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "25E Details": {
+      "Seat Number": "25E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "25F Details": {
+      "Seat Number": "25F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "26": {
+    "RowNumber": "26",
+    "Cabin Type": "Economy",
+    "26A Details": {
+      "Seat Number": "26A",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    },
+    "26B Details": {
+      "Seat Number": "26B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "26C Details": {
+      "Seat Number": "26C",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "26D Details": {
+      "Seat Number": "26D",
+      "Availabilty": "true",
+      "Cost": "4200 USD"
+    },
+    "26E Details": {
+      "Seat Number": "26E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "26F Details": {
+      "Seat Number": "26F",
+      "Availabilty": "true",
+      "Cost": "2700 USD"
+    }
+  },
+  "27": {
+    "RowNumber": "27",
+    "Cabin Type": "Economy",
+    "27A Details": {
+      "Seat Number": "27A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "27B Details": {
+      "Seat Number": "27B",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "27C Details": {
+      "Seat Number": "27C",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "27D Details": {
+      "Seat Number": "27D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "27E Details": {
+      "Seat Number": "27E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "27F Details": {
+      "Seat Number": "27F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "28": {
+    "RowNumber": "28",
+    "Cabin Type": "Economy",
+    "28A Details": {
+      "Seat Number": "28A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "28B Details": {
+      "Seat Number": "28B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "28C Details": {
+      "Seat Number": "28C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "28D Details": {
+      "Seat Number": "28D",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "28E Details": {
+      "Seat Number": "28E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "28F Details": {
+      "Seat Number": "28F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "29": {
+    "RowNumber": "29",
+    "Cabin Type": "Economy",
+    "29A Details": {
+      "Seat Number": "29A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "29B Details": {
+      "Seat Number": "29B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "29C Details": {
+      "Seat Number": "29C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "29D Details": {
+      "Seat Number": "29D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "29E Details": {
+      "Seat Number": "29E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "29F Details": {
+      "Seat Number": "29F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "30": {
+    "RowNumber": "30",
+    "Cabin Type": "Economy",
+    "30A Details": {
+      "Seat Number": "30A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "30B Details": {
+      "Seat Number": "30B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "30C Details": {
+      "Seat Number": "30C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "30D Details": {
+      "Seat Number": "30D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "30E Details": {
+      "Seat Number": "30E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "30F Details": {
+      "Seat Number": "30F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "31": {
+    "RowNumber": "31",
+    "Cabin Type": "Economy",
+    "31A Details": {
+      "Seat Number": "31A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "31B Details": {
+      "Seat Number": "31B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "31C Details": {
+      "Seat Number": "31C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "31D Details": {
+      "Seat Number": "31D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "31E Details": {
+      "Seat Number": "31E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "31F Details": {
+      "Seat Number": "31F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "32": {
+    "RowNumber": "32",
+    "Cabin Type": "Economy",
+    "32A Details": {
+      "Seat Number": "32A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "32B Details": {
+      "Seat Number": "32B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "32C Details": {
+      "Seat Number": "32C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "32D Details": {
+      "Seat Number": "32D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "32E Details": {
+      "Seat Number": "32E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "32F Details": {
+      "Seat Number": "32F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "34": {
+    "RowNumber": "34",
+    "Cabin Type": "Economy",
+    "34A Details": {
+      "Seat Number": "34A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "34B Details": {
+      "Seat Number": "34B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "34C Details": {
+      "Seat Number": "34C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "34D Details": {
+      "Seat Number": "34D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "34E Details": {
+      "Seat Number": "34E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "34F Details": {
+      "Seat Number": "34F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "35": {
+    "RowNumber": "35",
+    "Cabin Type": "Economy",
+    "35A Details": {
+      "Seat Number": "35A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "35B Details": {
+      "Seat Number": "35B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "35C Details": {
+      "Seat Number": "35C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "35D Details": {
+      "Seat Number": "35D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "35E Details": {
+      "Seat Number": "35E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "35F Details": {
+      "Seat Number": "35F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "36": {
+    "RowNumber": "36",
+    "Cabin Type": "Economy",
+    "36A Details": {
+      "Seat Number": "36A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "36B Details": {
+      "Seat Number": "36B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "36C Details": {
+      "Seat Number": "36C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "36D Details": {
+      "Seat Number": "36D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "36E Details": {
+      "Seat Number": "36E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "36F Details": {
+      "Seat Number": "36F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "37": {
+    "RowNumber": "37",
+    "Cabin Type": "Economy",
+    "37A Details": {
+      "Seat Number": "37A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "37B Details": {
+      "Seat Number": "37B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "37C Details": {
+      "Seat Number": "37C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "37D Details": {
+      "Seat Number": "37D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "37E Details": {
+      "Seat Number": "37E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "37F Details": {
+      "Seat Number": "37F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "38": {
+    "RowNumber": "38",
+    "Cabin Type": "Economy",
+    "38A Details": {
+      "Seat Number": "38A",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    },
+    "38B Details": {
+      "Seat Number": "38B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "38C Details": {
+      "Seat Number": "38C",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "38D Details": {
+      "Seat Number": "38D",
+      "Availabilty": "true",
+      "Cost": "1800 USD"
+    },
+    "38E Details": {
+      "Seat Number": "38E",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "38F Details": {
+      "Seat Number": "38F",
+      "Availabilty": "true",
+      "Cost": "1300 USD"
+    }
+  },
+  "39": {
+    "RowNumber": "39",
+    "Cabin Type": "Economy",
+    "39A Details": {
+      "Seat Number": "39A",
+      "Availabilty": "false",
+      "Cost": "Not Available"
+    },
+    "39B Details": {
+      "Seat Number": "39B",
+      "Availabilty": "true",
+      "Cost": "1200 USD"
+    },
+    "39C Details": {
+      "Seat Number": "39C",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "39D Details": {
+      "Seat Number": "39D",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Aisle"
+    },
+    "39E Details": {
+      "Seat Number": "39E",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Center"
+    },
+    "39F Details": {
+      "Seat Number": "39F",
+      "Availabilty": "false",
+      "Cost": "Not Available",
+      "Features": "Window"
+    }
+  }
+}
